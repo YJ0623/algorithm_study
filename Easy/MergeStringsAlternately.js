@@ -24,6 +24,5 @@ var mergeAlternately = function(word1, word2) {
         str += word2[p2];
         p2++;
     }
-    
     return str;
 };
